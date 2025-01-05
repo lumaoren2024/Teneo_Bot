@@ -1,5 +1,14 @@
 # Teneo
-Teneo项目
 
-嗨，我使用 Teneo 社区节点，并通过为去中心化数据网络做出贡献来获得奖励。注册时使用我的推荐代码：VWjp8 可获得 1,000 额外 Teneo 积分。立即加入并赚取您的份额！
-bit.ly/teneo-community-node
+# Toeneo Bot 1.0 能做些什么？
+1、单窗口单账号（下个版本再说单窗口多账号的事，一边走一边写不容易。各位别催更！）
+2、自动挂机赚取时间算率和积分
+3、自动抓取token
+
+## account.txt 格式
+邮件||||密码||||代理
+
+## 代理格式
+http://u:p@ip:port
+
+http://ip:port
